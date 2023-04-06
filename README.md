@@ -1,2 +1,0 @@
-# LEGENDS-SERVER-WEBSITE
-Legends-Server
