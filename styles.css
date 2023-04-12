@@ -139,8 +139,8 @@ ul {
   text-shadow: 0 5px 40px #ffffff;
   background-color: ( 90, 255, 214, 0.15);
   background-color: rgba(0, 255, 170, 0.005);
-  -webkit-backdrop-filter: blur(90px);
-backdrop-filter: blur(90px);
+  -webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(10px);
 }
 
 /* li settings */
@@ -279,7 +279,7 @@ li a:hover {
   background-color: ( 90, 255, 214, 0.15);
   background-color: rgba(0, 255, 170, 0.54);
   -webkit-backdrop-filter: blur(70px);
-  backdrop-filter: blur(90px);
+  backdrop-filter: blur(70px);
   border-bottom-style: solid; 
   border-radius: 5px;
   box-shadow: 0px 0px 500px 5px rgba(0, 248, 170, 0.455);
